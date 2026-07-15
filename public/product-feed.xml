@@ -4,6 +4,18 @@
     <title>Jersey zone</title>
     <link>https://example.com</link>
     <description>Product feed for Jersey zone</description>
-    <lastBuildDate>Wed, 15 Jul 2026 12:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:44:37 GMT</lastBuildDate>
+    <item>
+      <g:id>794a4776-b986-4386-8fa1-c2bab9c8c703</g:id>
+      <g:title>חולצת בית ספרד מונדיאל 2026 </g:title>
+      <g:description>חולצת בית ספרד מונדיאל 2026</g:description>
+      <g:link>https://example.com/product/chvltst-byt-sprd-mvndyal-2026-jtok8g</g:link>
+      <g:image_link>https://example.com/assets/product-1784119201473-shzjnh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>70.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Jersey zone</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
