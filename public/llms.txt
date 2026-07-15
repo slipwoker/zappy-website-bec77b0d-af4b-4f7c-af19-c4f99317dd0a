@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://jersey-zone-bec77b0d.zappy5.app
+https://example.com
 גלו את הקולקציה השווה ביותר של חולצות כדורגל מקבוצות אירופאיות מובילות. איכות בלתי מתפשרת, עיצובים עדכניים ומשלוח מהיר עד הבית. הצטרפו למועדון האוהדים עכשיו!
 
 ### אודות
-https://jersey-zone-bec77b0d.zappy5.app/about
+https://example.com/about
 הכירו את Jersey zone – מותג שצמח מתוך תרבות הכדורגל והפאנדום. אנחנו מביאים לכם חולצות כדורגל שמספרות סיפור של מסורת, גאווה ואהבה בלתי נגמרת לספורט. בואו לשמוע עוד.
 
 ### גלריה
-https://jersey-zone-bec77b0d.zappy5.app/gallery
+https://example.com/gallery
 צללו לגלריית חולצות הכדורגל שלנו ותראו את הקולקציות הכי חמות של העונה. כל ג&#39;רזי הוא יצירת אומנות שמחכה להפוך לחלק מהסטייל שלכם. התחילו לעיין ולבחור את המועדפת.
 
 ### טיפול בג'רזי
-https://jersey-zone-bec77b0d.zappy5.app/jersey-care
+https://example.com/jersey-care
 המדריך המושלם לטיפול בחולצות כדורגל: כביסה נכונה, ייבוש בטוח ואחסון שישמור על ההדפסים והצבעים לאורך שנים. תנו לג&#39;רזי שלכם את הכבוד שמגיע לו וגלו את כל הסודות.
 
 ### צור קשר
-https://jersey-zone-bec77b0d.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סתם בא לכם לדבר כדורגל? אנחנו פה בשבילכם עם שירות אוהדים אמיתי. מלאו את הפרטים ונחזור אליכם במהירות עם חיוך וחולצה מושלמת.
 
 ### Products
-https://jersey-zone-bec77b0d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Jersey zone
 
 ### Cart
-https://jersey-zone-bec77b0d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://jersey-zone-bec77b0d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://jersey-zone-bec77b0d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://jersey-zone-bec77b0d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://jersey-zone-bec77b0d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://jersey-zone-bec77b0d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Jersey zone
 
 ### Category
-https://jersey-zone-bec77b0d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Jersey zone
 
 ### תודה רבה | Jersey zone
-https://jersey-zone-bec77b0d.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך ל-Jersey zone. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם. הבית של חולצות כדורגל איכותיות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jersey-zone-bec77b0d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jersey-zone-bec77b0d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jersey-zone-bec77b0d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://jersey-zone-bec77b0d.zappy5.app/sitemap.xml
-- Robots: https://jersey-zone-bec77b0d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://jersey-zone-bec77b0d.zappy5.app/llms-full.txt
-- Products (JSON): https://jersey-zone-bec77b0d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://jersey-zone-bec77b0d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
